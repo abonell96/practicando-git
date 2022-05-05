@@ -7,6 +7,8 @@ function resta(num1, num2){
   console.log(`El resultado es: ${resultado}`);
 }
 
+resta(20, 10);
+
 //Desarrollador dos
 
 
