@@ -6,8 +6,8 @@ consumirServicio('#contenedor_principal', 'https://8bc7-177-240-51-61.ngrok.io/a
 
 //Desarrollador uno
 
-function resta(num1, num2){
-    let resultado = num1 - num2;
+function resta(num1, Num2){
+    let resultado = num1 - Num2;
     console.log(`Resultado: ${resultado}`);
 }
 
