@@ -6,7 +6,12 @@ consumirServicio('#contenedor_principal', 'https://8bc7-177-240-51-61.ngrok.io/a
 
 //Desarrollador uno
 
+function resta(num1, num2){
+    let resultado = num1 - num2;
+    console.log(`Resultado: ${resultado}`);
+}
 
+resta(20, 10)
 
 //Desarrollador dos
 
